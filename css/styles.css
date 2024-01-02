@@ -358,11 +358,18 @@ img {
 }
 
 .first-section {
-    background-image:linear-gradient(rgba(46, 47, 66, 0.7),
-     rgba(46, 47, 66, 0.7)) 
-    url(../images/img-name.jpeg);
+    background-color: var(--navy-blue);
+    padding: 188px 0;
     max-width: 1440px;
-    background-repeat: no-repeat;
-    background-position: center ;
-    background-size: cover;
-}
+    margin: 0 auto;
+    background-image: linear-gradient(
+        rgba(37, 44, 179, 0.7),
+        rgba(46, 47, 66, 0.7) 
+        url(../images/people-office.jpg);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+    }
+    
+   
+  
