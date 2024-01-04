@@ -170,8 +170,7 @@ li>.link:focus {
     overflow: hidden;
 }
 
-.info .list-header,
-.svc .list-header {
+.list-header {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -202,6 +201,8 @@ li>.link:focus {
 .info-card {
     flex-basis: calc((100% - 72px) / 4);
 }
+
+
 
 /* Third Section */
 
