@@ -388,3 +388,33 @@ img {
         0px 1px 1px rgba(46, 47, 66, 0.16),
         0px 2px 1px rgba(46, 47, 66, 0.08);
   }
+  .social-media {
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+  }
+
+  .soc-med {
+    width: 40px;
+    height: 40px;
+  }
+
+  .soc-med-link {
+    width: 100px;
+    height: 100px;
+    background-color: #4d5ae5;
+    border-radius: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .soc-med-link.hover,
+  .soc-med-link.focus {
+   background-color: #404bbf;
+  }
+  
+  .soc-svg {
+    width: 16px;
+    height: 16px;
+  }
