@@ -394,12 +394,12 @@ img {
     gap: 24px;
   }
 
-  .soc-med {
+  .socmed {
     width: 40px;
     height: 40px;
   }
 
-  .soc-med-link {
+  .socmed-link {
     width: 100px;
     height: 100px;
     background-color: #4d5ae5;
@@ -409,8 +409,8 @@ img {
     justify-content: center;
   }
 
-  .soc-med-link.hover,
-  .soc-med-link.focus {
+  .socmed-link.hover,
+  .socmed-link.focus {
    background-color: #404bbf;
   }
   
