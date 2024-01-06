@@ -399,9 +399,15 @@ img {
     height: 40px;
   }
 
-  .soc-med-link {
+  .soc-med {
     width: 100px;
     height: 100px;
+    border-radius: 50px;
+
+  }
+
+  .soc-med-link {
+   
     background-color: #4d5ae5;
     border-radius: 50px;
     display: flex;
@@ -409,8 +415,8 @@ img {
     justify-content: center;
   }
 
-  .soc-med-link.hover,
-  .soc-med-link.focus {
+  .soc-med.hover,
+  .soc-med.focus {
    background-color: #404bbf;
   }
   
