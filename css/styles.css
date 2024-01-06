@@ -409,11 +409,11 @@ img {
     justify-content: center;
   }
 
-  .socmed-link.hover {
+  .socmed-link:hover {
         background-color: #404bbf;
   }
 
-  .socmed-link.focus {
+  .socmed-link:focus {
      background-color: #404bbf;
   }
   
