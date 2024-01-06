@@ -432,3 +432,21 @@ img {
 .description {
     text-align: center;
 }
+
+/* section five */
+.five-section {
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+
+.customers-contnent {
+    font-size: 36px;
+    line-height: 1.11;
+    color: #2e2f42;
+    margin-bottom: 72px;
+}
+
+.five-list {
+    display: flex;
+    gap: 24px;   
+}
