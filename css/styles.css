@@ -523,7 +523,7 @@ img {
     margin-right: 120px;  
 }
 
-.foter>.container {
+.footer>.container {
     display: flex;
     align-items: baseline;
 }
