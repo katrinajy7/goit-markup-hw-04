@@ -553,11 +553,16 @@ footer-socmed {
     width: 100%;
     height: 100%;
     background-color: #4d5ae5;
-    border-radius: 50px;
     display: flex;
     align-items: center;
     justify-content: center;
 }
+
+.footer-socmed-listitems-link {
+    border-radius: 50px;
+}
+
+
 
 .footer-socmed-listitems-link:hover,
 .footer-socmed-listitems-link:focus {
