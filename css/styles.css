@@ -520,10 +520,14 @@ img {
 /*FOOTER WRAP */
 
 .footer-wrap {
-    margin-right: 120px;
+    margin-right: 120px;  
+}
+
+.foter>.container {
     display: flex;
     align-items: baseline;
 }
+
 
 footer-socmed {
     font-weight: 500;
