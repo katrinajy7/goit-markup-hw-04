@@ -460,7 +460,6 @@ img {
 .cust-list-item {
     width: calc((100% - 120px) / 6);
     height: 88px;
-
 }
 
 .cust-list-link {
@@ -522,6 +521,8 @@ img {
 
 .footer-wrap {
     margin-right: 120px;
+    display: flex;
+    align-items: baseline;
 }
 
 footer-socmed {
