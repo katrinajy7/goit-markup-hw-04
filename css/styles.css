@@ -474,23 +474,25 @@ img {
     color: var(--customercolor);
 }
 
-.five-list-link:hover {
+
+
+.cust-list-link:hover {
     border-color: #404bbf;
 }
 
-.five-list-link:hover {
+.cust-list-link:hover {
     color: #404bbf;
 }
 
-.five-list-link:focus {
+.cust-list-link:focus {
     border-color: #404bbf;
 }
 
-.five-list-link:hover {
+.cust-list-link:hover {
     color: #404bbf;
 }
 
-.five-list-link {
+.cust-list-link {
     width: 100%;
     height: 100%;
     border: (1px solid #8e8f99);
